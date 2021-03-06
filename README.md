@@ -1,1 +1,1 @@
-# autovlan
+AutoVLAN is a comprehensive piece of work that aims to ease up the overwhelming load of VLAN management and provisioning tasks over a typical Service Provider/Datacenter environment for Cisco and Juniper platforms.
